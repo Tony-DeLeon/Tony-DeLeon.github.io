@@ -1,2 +1,2 @@
 # Tony-DeLeon.github.io
-Trying to github pages.
+Trying to learn github pages.
